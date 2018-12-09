@@ -1,0 +1,4 @@
+pane	testing	1	:bash	1	:*	1	:/home/nico	0	bash	:
+pane	testing	1	:bash	1	:*	2	:/home/nico/.tmux/plugins/tpm	1	bash	:
+window	testing	1	1	:*	5b02,178x51,0,0[178x25,0,0,1,178x25,0,26,5]
+state	testing	
