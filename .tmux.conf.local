@@ -273,6 +273,7 @@ $EDITOR=vim
  set -gu prefix2
  unbind C-a
  unbind C-b
+ unbind Space
  set -g prefix C-a
  bind C-a send-prefix
 
